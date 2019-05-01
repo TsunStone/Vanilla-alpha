@@ -1,0 +1,34 @@
+{
+	"name": "Human Realm",
+	"type": "Realm",
+	"initial_realm": true,
+	"safe_biome": "Forest",
+	"edge_biome": "Ocean",
+	"world_size": 4,
+	"biomes": [
+		"Forest": {
+			"ores": [
+				{
+					"ore": "Dirt",
+					"amt": 12,
+				},
+				{
+					"ore": "Clay",
+					"amt": 2,
+				},
+				{
+					"ore": "Stone",
+					"amt": 1,
+				}
+			]
+		},
+		"Ocean": {
+			"ores": [
+				{
+					"ore": "Sand",
+					"amt": 1,
+				}
+			]
+		}
+	]
+}
