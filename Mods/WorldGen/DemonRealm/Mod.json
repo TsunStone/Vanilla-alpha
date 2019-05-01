@@ -1,0 +1,27 @@
+{
+	"name": "Demon Realm",
+	"type": "Realm",
+	"initial_realm": false,
+	"safe_biome": "Igneous",
+	"edge_biome": "LavaOcean",
+	"world_size": 2,
+	"biomes": [
+		{
+			"name": "Igneous",
+			"ores": [
+				{
+					"ore": "Igneous",
+					"amt": 1,
+				}
+			]
+		},
+		{
+			"name": "LavaOcean",
+			"ores": [
+					"ore": "Igneous",
+					"amt": 1,
+			],
+			"disable_ocean": false
+		}
+	]
+}
