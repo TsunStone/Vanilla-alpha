@@ -6,7 +6,8 @@
 	"edge_biome": "Ocean",
 	"world_size": 4,
 	"biomes": [
-		"Forest": {
+		{
+			"name": "Forest",
 			"ores": [
 				{
 					"ore": "Dirt",
@@ -22,13 +23,15 @@
 				}
 			]
 		},
-		"Ocean": {
+		{
+			"name": "Ocean",
 			"ores": [
 				{
 					"ore": "Sand",
 					"amt": 1,
 				}
-			]
+			],
+			"disable_ocean": false
 		}
 	]
 }
