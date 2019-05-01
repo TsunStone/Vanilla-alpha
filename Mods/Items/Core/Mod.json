@@ -1,8 +1,8 @@
 {
 	"name": "Core Items",
-	"type": "Items",
-	"minimum_index": 1,
-	"maximum_index": 255,
+	"type": "ItemSet",
+	"itemset_min": 1,
+	"itemset_max": 255,
 	"items": [
 		{
 			"index": 1,
