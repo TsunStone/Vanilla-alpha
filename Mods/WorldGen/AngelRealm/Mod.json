@@ -1,0 +1,27 @@
+{
+	"name": "Angel Realm",
+	"type": "Realm",
+	"initial_realm": false,
+	"safe_biome": "Cloud",
+	"edge_biome": "Void",
+	"world_size": 1,
+	"biomes": [
+		{
+			"name": "Cloud",
+			"ores": [
+				{
+					"ore": "Cloud",
+					"amt": 1,
+				}
+			]
+		},
+		{
+			"name": "Void",
+			"ores": [
+					"ore": "None",
+					"amt": 1,
+			],
+			"disable_ocean": true
+		}
+	]
+}
