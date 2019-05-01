@@ -6,14 +6,15 @@
 	"edge_biome": "SuperFlatForest",
 	"world_size": 4,
 	"biomes": [
-		"SuperFlatForest": {
+		{
+			"name": "SuperFlatForest",
 			"ores": [
 				{
 					"ore": "Dirt",
 					"amt": 1,
 				}
 			],
-			"ocean": false
+			"disable_ocean": true
 		}
 	]
 }
