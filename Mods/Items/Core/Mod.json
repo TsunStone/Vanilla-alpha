@@ -1,5 +1,6 @@
 {
 	"name": "Core Items",
+	"type": "Items",
 	"minimum_index": 1,
 	"maximum_index": 255,
 	"items": [
