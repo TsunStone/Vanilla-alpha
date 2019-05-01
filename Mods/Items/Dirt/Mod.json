@@ -1,7 +1,8 @@
 {
 	"name": "Dirt Items",
-	"minimum_index": 256,
-	"maximum_index": 511,
+	"type": "ItemSet",
+	"itemset_min": 256,
+	"itemset_max": 511,
 	"items": [
 		{
 			"index": 256,
