@@ -1,0 +1,19 @@
+{
+	"name": "SuperFlat",
+	"type": "Realm",
+	"initial_realm": true,
+	"safe_biome": "SuperFlatForest",
+	"edge_biome": "SuperFlatForest",
+	"world_size": 4,
+	"biomes": [
+		"SuperFlatForest": {
+			"ores": [
+				{
+					"ore": "Dirt",
+					"amt": 1,
+				}
+			],
+			"ocean": false
+		}
+	]
+}
