@@ -1,0 +1,38 @@
+{
+	"name": "Anime Realm",
+	"type": "Realm",
+	"initial_realm": false,
+	"safe_biome": "Mori",
+	"edge_biome": "Umi",
+	"world_size": 1,
+	"weeb": true,
+	"biomes": [
+		{
+			"name": "Mori",
+			"ores": [
+				{
+					"ore": "Dirt",
+					"amt": 12,
+				},
+				{
+					"ore": "Clay",
+					"amt": 2,
+				},
+				{
+					"ore": "Stone",
+					"amt": 1,
+				}
+			]
+		},
+		{
+			"name": "Umi",
+			"ores": [
+				{
+					"ore": "Sand",
+					"amt": 1,
+				}
+			],
+			"disable_ocean": false
+		}
+	]
+}
