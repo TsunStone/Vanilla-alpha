@@ -1,5 +1,5 @@
-# GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Core
-# GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Dirt
+# GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Debug
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Dirt
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/AngelRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/AnimeRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/DemonRealm
