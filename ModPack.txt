@@ -1,5 +1,16 @@
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Debug
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Clay
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Coal
 GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Dirt
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Glass
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Grass
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Ice
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Igneous
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Mud
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Obsidian
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Sand
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Snow
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Stone
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/AngelRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/AnimeRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/DemonRealm
