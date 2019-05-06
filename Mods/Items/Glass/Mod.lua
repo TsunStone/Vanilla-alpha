@@ -3,4 +3,5 @@ addCommonBlocks{
 	texture = "Tiles",
 	xOf4096 = 0,
 	yOf4096 = 8*256,
+	fragile = true,
 }
