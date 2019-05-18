@@ -10,7 +10,7 @@ addChestTemplate{
 
 TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = false
 implement("ToggleInventory", function()
-	local isNowOpen = ~TsunStone_Vanilla_ChestTemplates_Inventory.isOpen
+	local isNowOpen = not TsunStone_Vanilla_ChestTemplates_Inventory.isOpen
 	TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = isNowOpen
 	if (isNowOpen) {
 		alert("Opening inventory")
