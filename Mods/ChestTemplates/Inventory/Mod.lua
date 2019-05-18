@@ -8,4 +8,5 @@ addChestTemplate{
 
 implement("ToggleInventory", function()
 	alert("Hi from Lua!")
+	log("Hi from Lua!")
 end)
