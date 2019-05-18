@@ -12,7 +12,7 @@ TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = false
 implement("ToggleInventory", function()
 	local isNowOpen = not TsunStone_Vanilla_ChestTemplates_Inventory.isOpen
 	TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = isNowOpen
-	if (isNowOpen) {
+	if (isNowOpen) then
 		alert("Opening inventory")
 	else
 		alert("Closing inventory")
