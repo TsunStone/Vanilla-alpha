@@ -2,5 +2,6 @@ addChestTemplate{
 	defaultName   = "Inventory",
 	playerPrivate = true,
 	portable      = true,
-	rowsOf10      = 4,
+	width         = 9,
+	height        = 4,
 }
