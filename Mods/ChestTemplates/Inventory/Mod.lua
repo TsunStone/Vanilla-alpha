@@ -1,3 +1,5 @@
+TsunStone_Vanilla_ChestTemplates_Inventory = {}
+
 addChestTemplate{
 	name          = "Inventory",
 	width         = 9,
@@ -6,6 +8,13 @@ addChestTemplate{
 	portable      = true,
 }
 
+TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = false
 implement("ToggleInventory", function()
-	alert("Hi from Lua!")
+	local isNowOpen = ~TsunStone_Vanilla_ChestTemplates_Inventory.isOpen
+	TsunStone_Vanilla_ChestTemplates_Inventory.isOpen = isNowOpen
+	if (isNowOpen) {
+		alert("Opening inventory")
+	else
+		alert("Closing inventory")
+	end
 end)
