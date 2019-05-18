@@ -1,3 +1,4 @@
+GitHub/TsunStone/Vanilla-alpha/+/Mods/ChestTemplates/Inventory
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Debug
 GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Clay
 GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Coal
