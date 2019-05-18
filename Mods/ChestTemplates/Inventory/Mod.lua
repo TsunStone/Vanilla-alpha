@@ -1,3 +1,4 @@
+--[[
 addChestTemplate{
 	name          = "Inventory",
 	width         = 9,
@@ -5,6 +6,7 @@ addChestTemplate{
 	playerPrivate = true,
 	portable      = true,
 }
+]]
 
 implement("ToggleInventory", function()
 	alert("Hi from Lua!")
