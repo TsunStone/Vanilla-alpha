@@ -22,6 +22,7 @@ implement("ToggleInventory", function()
 		}
 	else
 		alert("Closing inventory")
-		TsunStone_Vanilla_ChestTemplates_Inventory.panel.destroy()
+		destroyPanel(TsunStone_Vanilla_ChestTemplates_Inventory.panel)
+		TsunStone_Vanilla_ChestTemplates_Inventory.panel = nil
 	end
 end)
