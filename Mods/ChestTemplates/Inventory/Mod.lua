@@ -17,6 +17,8 @@ implement("ToggleInventory", function()
 			width  = 0.75,
 			height = 0.75,
 			bg     = "#dfdfdf",
+			fg     = "#ff0000",
+			text   = "test",
 		}
 	else
 		destroyPanel(TsunStone_Vanilla_ChestTemplates_Inventory.panel)
