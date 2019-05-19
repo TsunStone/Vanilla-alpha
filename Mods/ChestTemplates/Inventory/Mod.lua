@@ -17,7 +17,7 @@ implement("ToggleInventory", function()
 		TsunStone_Vanilla_ChestTemplates_Inventory.panel = newPanel{
 			width  = 0.75,
 			height = 0.75,
-			bg     = "#bfbfbf7f",
+			bg     = "#dfdfdf",
 		}
 	else
 		alert("Closing inventory")
