@@ -17,3 +17,4 @@ GitHub/TsunStone/Vanilla-alpha/+/Mods/Items/Stone
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/DemonRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/HumanRealm
 # GitHub/TsunStone/Vanilla-alpha/+/Mods/WorldGen/SuperFlat
+GitHub/TsunStone/Vanilla-alpha/+/Mods/Debug/WIP
